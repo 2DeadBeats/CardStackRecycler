@@ -1,0 +1,2 @@
+include ':sample', ':cardstackrecycler'
+rootProject.name='CardStackRecycler'

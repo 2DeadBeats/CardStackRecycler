@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CardStackRecycler">
+        <attr name="paginationEnabled" format="boolean" />
+        <attr name="centerScrollEnabled" format="boolean" />
+        <attr name="maxCards" format="integer" />
+    </declare-styleable>
+</resources>
